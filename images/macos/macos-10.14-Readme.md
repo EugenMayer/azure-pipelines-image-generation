@@ -70,8 +70,8 @@ The following software is installed on machines in the Azure Pipelines **macOS-1
 - bazel 2.2.0
 - bazelisk v1.3.0
 - helm v3.1.2+gd878d4d
-- Docker 19.03.8
-- docker-machine 0.16.2
+- Docker (Client) 19.03.8
+- docker-machine (No daemon) 0.16.2
 - docker-compose 1.25.4
 
 ### Tools
